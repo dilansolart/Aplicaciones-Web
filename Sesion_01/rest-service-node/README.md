@@ -9,4 +9,4 @@ Para inicializar el proyecto,
 - npm install
 
 5. Inicializa el servidor con el comando:
-- node server.js
+- node server.js  
