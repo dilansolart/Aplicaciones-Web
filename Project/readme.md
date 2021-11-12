@@ -32,7 +32,7 @@ Un usuario interno de la plataforma debe ser registrado por un administrador y d
     * valor_capital = monto_aprobado / numero_cuotas
     * deuda_total = valor_solicitado - valor_capital (Este valor no puede ser negativo)
     * valor_interes = %interes_mensual * deuda_total
-    * valor_cuota = valor_intereses + valor_capital
+    * valor_cuota = valor_intereses + valor_capital 
 - Un crédito se rechaza cuando el valor de una cuota excede el 30% del valor disponible de una persona.
     * valor_disponible = egresos / ingresos * 100%
 
